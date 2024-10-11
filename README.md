@@ -1,1 +1,2 @@
 # Content_Based_Image_Search
+This project implements a content-based image search system using DL models for generating rich textual descriptions of images and embedding them for similarity-based search. The system processes images from multiple datasets, generates descriptions, encodes them into embeddings, and allows users to perform searches based on textual queries. The system is deployed using a web interface built with Gradio.
